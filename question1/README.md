@@ -40,3 +40,5 @@ This project is built with:
 - Stock correlation analysis
 - Interactive charts and visualizations
 - Responsive design
+![My Output](images/output1.png)
+![My Output](images/output2.png)
